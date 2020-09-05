@@ -2,7 +2,7 @@
 
 I'm Adrien REDON, a senior {JS, TS} developer, doing web development since 2012.
 
-- 🔭 I'm currently working for [Geolid](https://github.com/Geolid) in 📍Lyon
+- 🔭 I'm currently working for Notilo Plus in 📍Lyon
 - 📫 How to reach me:  [twitter](https://twitter.com/AdrienRedon), [linkedin](https://www.linkedin.com/in/adrienr/) or my [portfolio](https://adrienredon.com/)
 
 <!--
